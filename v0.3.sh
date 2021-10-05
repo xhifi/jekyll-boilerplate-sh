@@ -137,3 +137,6 @@ body {
   font-size: 16px;
 }
 EOF
+
+bundle update
+bundle exec jekyll serve -l
